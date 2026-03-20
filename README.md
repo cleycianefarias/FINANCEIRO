@@ -13,4 +13,4 @@ API de controle financeiro que gerencia pessoas, categorias e transações, com 
 - **React** → construção da interface
 - **TypeScript** → tipagem e maior segurança no código
 - **Fetch API** → comunicação com o backend
-- **Hooks (useState, useEffect)** → gerenciamento de estado e ciclo de vida :contentReference[oaicite:0]{index=0}
+- **Hooks (useState, useEffect)** → gerenciamento de estado e ciclo de vida 
